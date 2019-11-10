@@ -1,0 +1,28 @@
+.container{
+    max-width: 600px;
+}
+.login-form{
+    width: 340px;
+    margin: 50px auto;
+}
+.media {
+    display: flex;
+    width: 100%;
+    padding: 10px 40px;
+    background-size: contain;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+.user-menu{
+    padding: 10px 0;
+}
+.user-menu>a{
+    float:right;
+    padding: 0 0 0 20px;
+}
+.div-separator{
+    padding: 5px;
+}
